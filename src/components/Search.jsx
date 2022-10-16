@@ -15,7 +15,7 @@ function Search({cb = Function.prototype}) {
 
     return (
         <div className='row'>
-            <div className='input-field col s12 cyan'>
+            <div className='input-field col s12'>
                 <input
                     type='search'
                     id='search-field'
