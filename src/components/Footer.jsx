@@ -4,7 +4,7 @@ function Footer() {
             <div className='container'>
                 © {new Date().getFullYear()} Copyright ATMM
                 <a className='grey-text text-lighten-4 right'
-                   href='https://github.com/AndreySlesarchuk/react-shop'
+                   href='https://github.com/AndreySlesarchuk/react-food'
                    target='_blank'
                    rel='noreferrer'
                 >Repo</a>
